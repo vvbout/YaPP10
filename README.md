@@ -9,7 +9,7 @@
 * передача данных для загрузки в Tableau
 * первичный анализ данных
 * построение графиков и дашборда в Tableau
-* оформление презентации результат
+* оформление презентации результата
 
 **Адрес дашборда:** https://public.tableau.com/views/vbout_YaPP10_dash/__1?:language=en-US&:display_count=n&:origin=viz_share_link
 
